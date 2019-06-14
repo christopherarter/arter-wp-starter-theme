@@ -1,5 +1,6 @@
 {
     "name": "christopherarter/arter-wp-starter-theme",
     "type": "wordpress-theme",
+    "version":"1.0",
     "require": {}
 }
